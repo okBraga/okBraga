@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Filipe Braga
 
 I'm a developer focused in mobile and backend, i'm also a Information Systems student. I have 3 years of experience and im looking for a job.
-- 📫 How to reach me **bragab.filipe@gmail.com**
+- 📫 How to reach me **filipebraga.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
